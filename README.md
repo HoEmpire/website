@@ -1,5 +1,4 @@
-# chuchuchen.github.io
-personal web
+# Personal Website
 
-# To compress image
+## To compress image
 https://tinypng.com/ 
